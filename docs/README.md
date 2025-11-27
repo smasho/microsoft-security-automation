@@ -214,3 +214,8 @@ Where Microsoft exposes APIs, we provide examples (Graph, REST, Security API).
 # 📜 License
 This project is licensed under the MIT License.  
 You’re free to use, modify, and integrate the content into your own environments and pipelines.
+
+---
+
+# ⭐ Support the Project
+If you find this useful, please consider starring ⭐ the repository — it helps the project grow!
