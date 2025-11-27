@@ -56,20 +56,25 @@ The goal is to help:
 
 This repository includes automations for:
 
+### **Entra ID Security**
+- **Condtional Access policies**  
+
 ### **Azure Security**
 - **Microsoft Defender for Cloud**  
-- **Microsoft Sentinel**  
-- Azure Resource Manager Security  
-- Azure Entra (AAD) security settings  
+- **Microsoft Sentinel**
+- **Entra ID Protection**
 
 ### **Microsoft 365 Security**
-- **Microsoft Defender XDR (Microsoft 365 Defender)**  
-- **Microsoft Purview (future)**  
+- **Microsoft Defender XDR (Microsoft 365 Defender)**
+- **Microsoft Defender for Office 365**
+- **Microsoft Defender for Endpoint**
+- **Microsoft Defender for Identity**
+- **Microsoft Defender for Cloud Apps**  
+- **Microsoft Purview**  
 
 ### **Modern Security Operations**
 - **Microsoft Copilot for Security** (API examples when available)  
-- Incident handling automation  
-- Security baselines  
+- Incident handling automation    
 
 ### **API Coverage**
 - Microsoft Graph API  
