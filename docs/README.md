@@ -42,11 +42,11 @@ It provides ready-to-use automation for:
 
 The goal is to help:
 
-- Cloud Security Engineers  
-- SOC Teams  
+- Cloud Security Engineers
 - DevSecOps Engineers  
-- Architects  
-- Automation & Cloud Governance teams  
+- Managed Security Service Providers  
+- SOC Teams  
+- Architects    
 
 ... quickly adopt and standardize Microsoft security technologies.
 
