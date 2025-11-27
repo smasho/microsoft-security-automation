@@ -93,20 +93,28 @@ microsoft-security-automation/
 │  └─ README.md
 │
 ├─ powershell/
-│  ├─ defender-xdr/
-│  ├─ defender-for-cloud/
-│  ├─ sentinel/
+│  ├─ microsoft-defender-xdr/
+|  |  ├─ microsoft-defender-for-office-365/
+|  |  ├─ microsoft-defender-for-endpoint/
+|  |  ├─ microsoft-defender-for-identity/
+|  |  └─ microsoft-defender-for-endpoint/
+│  ├─ microsoft-defender-for-cloud/
+│  ├─ microsoft-sentinel/
 │  └─ copilot-security/
 │
 ├─ azcli/
-│  ├─ defender-xdr/
-│  ├─ defender-for-cloud/
-│  ├─ sentinel/
+│  ├─ microsoft-defender-xdr/
+|  |  ├─ microsoft-defender-for-office-365/
+|  |  ├─ microsoft-defender-for-endpoint/
+|  |  ├─ microsoft-defender-for-identity/
+|  |  └─ microsoft-defender-for-endpoint/
+│  ├─ microsoft-defender-for-cloud/
+│  ├─ microsoft-sentinel/
 │  └─ copilot-security/
 │
 ├─ terraform/
-│  ├─ defender-for-cloud/
-│  ├─ sentinel/
+│  ├─ microsoft-defender-for-cloud/
+│  ├─ microsoft-sentinel/
 │  └─ shared/modules/
 │
 ├─ api/
