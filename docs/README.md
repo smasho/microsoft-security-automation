@@ -9,7 +9,7 @@
 
 > **Automate, standardize, and scale Microsoft security deployments** using PowerShell, Azure CLI, Terraform, and REST APIs.
 
-This repository provides production-grade examples, scripts, Infrastructure-as-Code modules, and API samples for deploying and configuring major Microsoft security products across Azure and Microsoft 365.
+This repository provides scripts, IaC modules, and API samples for deploying and configuring major Microsoft security products across Azure and Microsoft 365.
 
 ---
 
