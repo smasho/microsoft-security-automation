@@ -58,19 +58,20 @@ This repository includes automations for:
 
 ### **Entra ID Security**
 - **Condtional Access policies**  
+- **Entra ID Protection**
 
 ### **Azure Security**
 - **Microsoft Defender for Cloud**  
 - **Microsoft Sentinel**
-- **Entra ID Protection**
 
-### **Microsoft 365 Security**
-- **Microsoft Defender XDR (Microsoft 365 Defender)**
+### **Microsoft Defender XDR**
 - **Microsoft Defender for Office 365**
 - **Microsoft Defender for Endpoint**
 - **Microsoft Defender for Identity**
 - **Microsoft Defender for Cloud Apps**  
-- **Microsoft Purview**  
+  
+### **Microsoft 365 Security**
+- **Microsoft Purview**
 
 ### **Modern Security Operations**
 - **Microsoft Copilot for Security** (API examples when available)  
